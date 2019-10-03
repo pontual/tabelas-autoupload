@@ -1,0 +1,25 @@
+Atualização da tabela de estoque do site
+
+1) Grave a planilha de estoque e CV dos dois sistemas, no menu “Movimento > Lista de Preços > Lista disponível
+
+2) Clique na flecha verde para prosseguir
+
+3) Grave o arquivo Excel clicando no ícone verde. Você deve escolher um nome diferente para cada um dos dois arquivos.
+
+4) Vá ao endereço http://pontualimportbrindes.com.br/XXXXXX (o navegador será redirecionado à área segura do site).
+
+5) Digite o usuário e senha para acessar a página: 
+Usuário: XXXXXX
+Senha: XXXXXX
+
+6) Clique no link “Tabela (Upload)” no menu
+
+7) Escolha os dois arquivos salvos no passo 3, e clique em “Continuar.
+
+8) Quando o processo terminar, a página deverá exibir:
+
+639 linhas.
+
+Gravado o Arquivo HTML estoque_5d88bc0f
+
+Caso algo dê errado, a página exibirá o erro. Tente novamente depois de alguns minutos.

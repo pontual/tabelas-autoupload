@@ -1,0 +1,12 @@
+*.EXE
+*.exe
+
+secrets.py
+__pycache__/
+
+tabelas/
+*.pdf
+*.xls
+*.html
+
+*.log
